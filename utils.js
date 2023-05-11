@@ -8,3 +8,4 @@ function sum() {}
 function aaa() {}
 
 function bbb() {}
+console.log('aaa')
