@@ -6,3 +6,4 @@ function handleBug() {}
 function sum() {}
 
 function aaa() {}
+console.log('aaa')
