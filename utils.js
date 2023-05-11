@@ -6,3 +6,5 @@ function handleBug() {}
 function sum() {}
 
 function aaa() {}
+
+function bbb() {}
