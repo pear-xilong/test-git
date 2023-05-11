@@ -9,3 +9,5 @@ function aaa() {}
 
 function bbb() {}
 console.log('aaa')
+
+console.log('xiaoming------')
