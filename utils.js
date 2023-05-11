@@ -4,3 +4,5 @@ function add() {} // main-11111111
 function handleBug() {}
 // login新增的方法
 function sum() {}
+
+function aaa() {}
