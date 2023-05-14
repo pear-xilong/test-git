@@ -5,6 +5,7 @@ function handleBug() {}
 // login新增的方法
 function sum() {}
 
+aaaaaaaaa
 function aaa() {}
 
 function bbb() {}
